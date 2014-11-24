@@ -1,7 +1,6 @@
 # Using ngx_lua in UPYUN
 
 * slideshare: <http://www.slideshare.net/timebug/using-ngxlua-in-upyun>
-* pdf: <https://github.com/timebug/using-ngxlua-in-upyun/using-ngxlua-in-upyun.pdf>
 
 ## Run the Code
 
