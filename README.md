@@ -2,6 +2,8 @@
 
 * slideshare: <http://www.slideshare.net/timebug/using-ngxlua-in-upyun>
 
+* blog: <http://io.upyun.com/2015/04/14/using-ngxlua-in-upyun/>
+
 ## Run the Code
 
 1) Building and Installing [Openresty](http://openresty.org/)
