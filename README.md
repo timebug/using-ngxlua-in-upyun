@@ -1,7 +1,7 @@
 # Using ngx_lua in UPYUN
 
-* 2014.11 @ Beijing OSC, slideshare: <http://www.slideshare.net/timebug/using-ngxlua-in-upyun>
-* 2015.11 @ Beijing OpenResty Con, slideshare: <http://www.slideshare.net/timebug/using-ngxlua-in-upyun-2>
+* 2014.11 @ Beijing OSC, slideshare: [Using ngx_lua in UPYUN](http://www.slideshare.net/timebug/using-ngxlua-in-upyun)
+* 2015.11 @ Beijing OpenResty Con, slideshare: [Using ngx_lua in UPYUN 2](http://www.slideshare.net/timebug/using-ngxlua-in-upyun-2)
 * blog: <http://io.upyun.com/2015/04/14/using-ngxlua-in-upyun/>
 
 ## Run the Code
