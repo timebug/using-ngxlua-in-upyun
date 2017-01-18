@@ -43,5 +43,5 @@ curl http://localhost:8080/hello
 * <https://github.com/openresty/lua-resty-string/pull/7>
 * <https://github.com/cloudflare/lua-resty-shcache>
 * <https://github.com/openresty/lua-resty-lrucache>
-* <https://github.com/upyun/lua-resty-checkups>
 * <https://github.com/openresty/lua-upstream-nginx-module>
+* <https://github.com/upyun/lua-resty-checkups>
